@@ -34,7 +34,6 @@ if itemDrop then
     file:write(newfile)
     io.flush()
     io.close()
-
 else
 if enable_item_pickup then
 --Credit to Pilzadam Minitest Game mode for item pickup and drop
